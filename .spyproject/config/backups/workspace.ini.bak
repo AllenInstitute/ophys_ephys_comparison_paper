@@ -1,0 +1,12 @@
+[workspace]
+restore_data_on_startup = True
+save_data_on_exit = True
+save_history = True
+save_non_project_files = False
+project_type = empty-project-type
+recent_files = ['common/distance_metrics.py', 'common/plotting_functions.py', '../../Stash/braintv_ephys_dev/workstation/joshs/ophys-ephys/functional_clustering/response_clustering.py', '../../Stash/braintv_ephys_dev/workstation/joshs/ophys-ephys/figureS6/plot_filtered_metrics.py', 'FigureS6/FigureS6a.py', 'FigureS6/FigureS6bcde.py', 'FigureS7/FigureS7cd.py', 'FigureS7/FigureS7ab.py', 'README.md', 'LICENSE.txt', '../../Dropbox/AIBS/Figures/extract_stim_table_v2.py', '../../Stash/braintv_ephys_dev/workstation/joshs/testing_stim_files.py', '../../Stash/braintv_ephys_dev/workstation/joshs/vc_release_v2_nwb_validation.py', '../../../../tmp/kite_tutorial.py', '../../Stash/braintv_ephys_dev/workstation/joshs/copy_files_from_server.py', '../../Stash/braintv_ephys_dev/workstation/joshs/recompute_metrics.py', '../../Stash/braintv_ephys_dev/workstation/joshs/visual_coding_data_upload.py']
+
+[main]
+version = 0.2.0
+recent_files = ['../../.config/spyder-py3/temp.py', '../../../../tmp/kite_tutorial.py', '../../Dropbox/AIBS/Figures/closed_loop_measurement.py', '../../Stash/braintv_ephys_dev/workstation/joshs/copy_files_from_server.py', '../../Stash/braintv_ephys_dev/workstation/joshs/testing_stim_files.py', '../../Stash/braintv_ephys_dev/workstation/joshs/visual_coding_data_upload.py']
+
